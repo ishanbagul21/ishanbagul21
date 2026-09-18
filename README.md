@@ -1,159 +1,122 @@
 <div align="center">
-  
-# Hello Dosto 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+%2B+Creative+Java+Developer;Full-Stack+Web+Developer;Web+%26+Creative+Tech;AI+%26+ML+Enthusiast;Crafting+Stories+Through+Code+%26+Visuals)](https://git.io/typing-svg)
+# Hi, I'm Ishan 👋
+
+### Computer Engineering Student · Java Developer · Full-Stack Web Developer
+
+**Developer + Creative Java Developer | Web & Creative Tech | Crafting stories through code & visuals**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Developer + Creative Java Developer** & **Computer Engineering Student** from 🇮🇳 India, passionate about **Web Development, Java Backend Development, AI, Databases, and Creative Technology**. I enjoy building practical applications and combining technology with creativity to craft meaningful digital experiences.
+I'm a **Computer Engineering student** interested in software development, web technologies, backend systems, databases, AI, and creative technology.
 
-- 🔭 Currently working on **Web Development, Java Backend, AI solutions and Database-driven applications**
-- 🌱 Always learning about **emerging technologies** and **modern development practices**
-- 👯 Looking to collaborate on **open-source projects, web applications, Java projects and AI initiatives**
-- 💬 Ask me about **Java, Web Development, MySQL, MongoDB, JDBC, Servlets, JSP, AI and Databases**
-- 🎨 I enjoy **Video Editing, Creative Technology and Visual Storytelling**
-- 🧪 Interested in **QA Testing, Functional Testing and Application Testing**
-- ⚡ Fun fact: I love **crafting stories through code & visuals**
+Currently, I'm putting my focus into **Java, Full-Stack Web Development, Backend Development, and Database Management**, while exploring AI/ML, software testing, and modern development concepts.
+
+I enjoy learning by **understanding how things work and turning that knowledge into practical applications and creative digital experiences.**
+
+* ☕ Strengthening my **Java & Backend Development** skills
+* 🌐 Building **Web & Database-driven Applications**
+* 🗄️ Working with **MySQL & MongoDB**
+* 🤖 Exploring **AI & Machine Learning**
+* 🧪 Learning **QA Testing & Application Functionality**
+* 🎨 Combining **Development with Creative Technology**
+* 🚀 Building **real-world projects and practical solutions**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚒️ Technologies & Tools
 
-### **Languages & Frameworks**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 </p>
 
-### **Backend & Java Development**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachetomcat/apachetomcat-original.svg" alt="tomcat" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+`Java` · `Python` · `JavaScript` · `SQL`
+
+### Web
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
 </p>
 
-- Java
-- Java Servlets
-- JSP
-- JDBC
-- Apache Tomcat
-- Bootstrap
-- AdminLTE
-- XAMPP
-- Git
-- GitHub
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `AdminLTE`
 
-### **Databases & Data**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+### Backend & Java
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachetomcat/apachetomcat-original.svg" width="42"/>
 </p>
 
-- MySQL
-- MongoDB
-- SQL
-- DBMS
-- Database Design
-- CRUD Operations
-- JDBC Database Connectivity
-- Data Analysis
+`Java` · `Servlets` · `JSP` · `JDBC` · `Apache Tomcat` · `XAMPP`
 
-### **AI & Emerging Technologies**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+### Database
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
 </p>
 
-- Artificial Intelligence
-- Machine Learning
-- AI-powered Applications
-- AI Tools & Technologies
-- Data Science Fundamentals
+`MySQL` · `MongoDB` · `SQL` · `DBMS` · `CRUD Operations` · `Database Design`
 
-### **Creative Technology**
-<p align="left">
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+### Developer Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="42"/>
 </p>
 
-- Video Editing
-- Adobe Premiere Pro
-- After Effects
-- Lightroom
-- CapCut
-- Canva
-- Color Grading
-- Visual Storytelling
-- Creative Content
+`Git` · `GitHub` · `VS Code` · `Eclipse` · `NetBeans` · `MySQL Workbench` · `XAMPP` · `Apache Tomcat`
 
-### **Testing & QA**
-- QA Testing
-- Functional Testing
-- Application Testing
-- Game Functionality Testing
-- Bug Identification
-- Debugging
+### AI & Data
 
----
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+</p>
 
-## 📊 GitHub Stats
+`Artificial Intelligence` · `Machine Learning` · `Data Analysis` · `Data Science` · `AI Tools`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishanbagul21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanbagul21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
+### Creative Technology
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanbagul21&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
+<p>
+<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+`Video Editing` · `Premiere Pro` · `After Effects` · `Lightroom` · `CapCut` · `Canva` · `Color Grading` · `Visual Storytelling`
+
+### Testing & QA
+
+`QA Testing` · `Functional Testing` · `Application Testing` · `Game Functionality Testing` · `Bug Identification` · `Debugging`
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishanbagul21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
+## 🧩 What I'm Learning
 
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanbagul21&theme=tokyo-night&hide_border=true" alt="Activity Graph">
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanbagul21)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanbagul/)
-
-[![Email](https://img.shields.io/badge/Email-ishan.bagul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan.bagul@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 "Crafting stories through code & visuals"
-
-![Profile Views](https://komarev.com/ghpvc/?username=ishanbagul21&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/ishanbagul21?label=Follow&style=social)](https://github.com/ishanbagul21)
-
-</div>
+```text
+Java
+  ↓
+Problem Solving
+  ↓
+Backend & Web Development
+  ↓
+Database Management
+  ↓
+AI & Machine Learning
+  ↓
+Real-World Application Development

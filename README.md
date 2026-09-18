@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://github.com/ishanbagul21">
+<a href="https://github.com/vaishnavijagtap21">
 <img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a **Computer Engineering student** interested in software development and problem solving.
 
@@ -93,3 +93,115 @@ I'm working towards becoming a stronger software developer by improving my funda
 ---
 
 ### Keep learning. Keep building. Keep improving. 🚀
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Practice-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Practice-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Practice-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Practice-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaishnavijagtap21&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD&icon_color=8B5CF6" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavijagtap21&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavijagtap21&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="500"/>
+
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Artificial Intelligence | 🟣🟣🟣⚪⚪ | AI concepts, AI tools and practical AI applications |
+| Machine Learning | 🟣🟣🟣⚪⚪ | ML fundamentals and learning through practical exploration |
+| AI-Powered Applications | 🟣🟣🟣⚪⚪ | Exploring intelligent features for real-world applications |
+| Data Analysis | 🟣🟣🟣⚪⚪ | Data handling, analysis and interpretation |
+| Data Science | 🟣🟣🟣⚪⚪ | Data science methodology and fundamentals |
+| Database Intelligence | 🟣🟣🟣⚪⚪ | Combining structured data with application logic |
+
+---
+
+### Open To
+
+`Software Development` · `Java Development` · `Full-Stack Development`  
+`Backend Development` · `AI/ML Projects` · `Open Source`  
+`QA & Testing` · `Hackathons` · `Technical Collaborations`
+
+---
+
+## ⚒️ Tech Stack
+
+### Languages
+
+<p align="left">
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="52"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="52"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="52"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="52"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="52"/></a>
+</p>
+
+`Java` · `Python` · `JavaScript` · `HTML5` · `CSS3` · `SQL`
+
+### Frontend
+
+<p align="left">
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="52"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="52"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="52"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="52"/></a>
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `AdminLTE` · `Responsive UI`
+
+### Backend & Databases
+
+<p align="left">
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="52"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="52"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="52"/></a>
+<a href="https://tomcat.apache.org/"><img src="https://skillicons.dev/icons?i=tomcat" width="52"/></a>
+</p>
+
+`Java` · `Servlets` · `JSP` · `JDBC` · `Apache Tomcat` · `MySQL` · `MongoDB` · `SQL` · `DBMS` · `CRUD` · `Database Design`
+
+### Cloud, DevOps & Tooling
+
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="52"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="52"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="52"/></a>
+<a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" width="52"/></a>
+</p>
+
+`Git` · `GitHub` · `VS Code` · `Eclipse` · `NetBeans` · `XAMPP` · `Apache Tomcat` · `MySQL Workbench`

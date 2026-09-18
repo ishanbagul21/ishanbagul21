@@ -16,7 +16,7 @@ I'm a **Developer + Creative Java Developer** & **Computer Engineering Student**
 - 🌱 Always learning about **emerging technologies** and **modern development practices**
 - 👯 Looking to collaborate on **open-source projects, web applications, Java projects and AI initiatives**
 - 💬 Ask me about **Java, Web Development, MySQL, MongoDB, JDBC, Servlets, JSP, AI and Databases**
-- 🎨 I also enjoy **Video Editing, Creative Technology and Visual Storytelling**
+- 🎨 I enjoy **Video Editing, Creative Technology and Visual Storytelling**
 - 🧪 Interested in **QA Testing, Functional Testing and Application Testing**
 - ⚡ Fun fact: I love **crafting stories through code & visuals**
 
@@ -34,11 +34,7 @@ I'm a **Developer + Creative Java Developer** & **Computer Engineering Student**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-**Java • Python • JavaScript • HTML5 • CSS3 • SQL**
-
-**Java Servlets • JSP • JDBC • Bootstrap • AdminLTE**
-
-### **Backend & Development**
+### **Backend & Java Development**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachetomcat/apachetomcat-original.svg" alt="tomcat" width="40" height="40"/>
@@ -51,12 +47,11 @@ I'm a **Developer + Creative Java Developer** & **Computer Engineering Student**
 - JSP
 - JDBC
 - Apache Tomcat
+- Bootstrap
+- AdminLTE
 - XAMPP
 - Git
 - GitHub
-- VS Code
-- Eclipse
-- NetBeans
 
 ### **Databases & Data**
 <p align="left">
@@ -86,14 +81,11 @@ I'm a **Developer + Creative Java Developer** & **Computer Engineering Student**
 
 ### **Creative Technology**
 <p align="left">
-
-  <img src="https://img.shields.io/badge/Video%20Editing-000000?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro"/>
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 - Video Editing
@@ -149,11 +141,9 @@ I'm a **Developer + Creative Java Developer** & **Computer Engineering Student**
   
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishanbagul21)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishanbagul/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-ishan.bagul%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishan.bagul@gmail.com)
 
 </div>
 

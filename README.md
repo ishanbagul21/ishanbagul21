@@ -1,15 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Vaishnavi%20Jagtap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Ishan%20Bagul&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vaishnavi+Jagtap+%F0%9F%91%8B;Computer+Engineering+Student;Java+Developer;DSA+Learner;Problem+Solver" alt="Typing SVG"/>
+
 <br>
 
 <br>
@@ -24,20 +20,9 @@
 
 </div>
 
-<br>
-
-<a href="https://github.com/vaishnavijagtap21">
-<img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/ishanbagul/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
 ---
 
-# Hi, I'm Vaishnavi 👋
+# Hi, I'm Ishan 👋
 
 ### Computer Engineering Student · Java Developer · DSA Learner
 
@@ -45,7 +30,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Computer Engineering student** interested in software development and problem solving.
 

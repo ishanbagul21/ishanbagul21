@@ -29,6 +29,14 @@
 
 ---
 
+# Hi, I'm Vaishnavi 👋
+
+### Computer Engineering Student · Java Developer · DSA Learner
+
+**Learning with curiosity. Building with purpose.**
+
+---
+
 ## 👩‍💻 About Me
 
 I'm a **Computer Engineering student** interested in software development and problem solving.
@@ -98,9 +106,13 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavijagtap21&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+<a href="https://github.com/Vaishnavijagtap21">
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavijagtap21&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" height="165" alt="Vaishnavi's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavijagtap21&layout=compact&hide_border=true&theme=transparent" height="165"/>
+<a href="https://github.com/Vaishnavijagtap21">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavijagtap21&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" height="165" alt="Vaishnavi's Top Languages"/>
+</a>
 
 </div>
 
@@ -111,6 +123,20 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 *Java · DSA · Problem Solving · Web Development*
 
 Working on becoming a stronger developer by practicing consistently and building solid programming fundamentals.
+
+---
+
+<div align="center">
+
+### Keep learning. Keep building. Keep improving. 🚀
+
+<br>
+
+<a href="https://github.com/Vaishnavijagtap21">
+<img src="https://img.shields.io/badge/GitHub-Vaishnavijagtap21-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 

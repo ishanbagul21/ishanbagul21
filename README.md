@@ -126,20 +126,6 @@ Working on becoming a stronger developer by practicing consistently and building
 
 ---
 
-<div align="center">
-
-### Keep learning. Keep building. Keep improving. 🚀
-
-<br>
-
-<a href="https://github.com/Vaishnavijagtap21">
-<img src="https://img.shields.io/badge/GitHub-Vaishnavijagtap21-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -172,14 +158,4 @@ Working on becoming a stronger developer by practicing consistently and building
 
 ---
 
-<div align="center">
-
 ### Keep learning. Keep building. Keep improving. 🚀
-
-<br>
-
-<a href="https://github.com/Vaishnavijagtap21">
-<img src="https://img.shields.io/badge/GitHub-Vaishnavijagtap21-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>

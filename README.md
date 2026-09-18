@@ -46,37 +46,53 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 ---
 
-## ⚒️ Technologies & Tools
+
+## ⚒️ Tech Stack
 
 ### Languages
 
-**Java · C · C++**
+<p align="left">
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="52"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="52"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="52"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="52"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="52"/></a>
+</p>
 
-### Web
+`Java` · `Python` · `JavaScript` · `HTML5` · `CSS3` · `SQL`
 
-**HTML · CSS · JavaScript**
+### Frontend
 
-### Database
+<p align="left">
+<a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="52"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="52"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="52"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="52"/></a>
+</p>
 
-**MySQL · MongoDB**
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `AdminLTE` · `Responsive UI`
 
-### Cloud & Developer Tools
+### Backend & Databases
 
-**Google Cloud · Git · GitHub · Firebase · Cloud Run · Kubernetes**
+<p align="left">
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="52"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="52"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="52"/></a>
+<a href="https://tomcat.apache.org/"><img src="https://skillicons.dev/icons?i=tomcat" width="52"/></a>
+</p>
 
----
+`Java` · `Servlets` · `JSP` · `JDBC` · `Apache Tomcat` · `MySQL` · `MongoDB` · `SQL` · `DBMS` · `CRUD` · `Database Design`
 
-## ☁️ Exploring Cloud
+### Cloud, DevOps & Tooling
 
-I've explored Google Cloud through hands-on labs and learning activities.
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="52"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="52"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="52"/></a>
+<a href="https://www.eclipse.org/"><img src="https://skillicons.dev/icons?i=eclipse" width="52"/></a>
+</p>
 
-**19+ Google Cloud Skills Boost badges**
-
-Areas I've explored include:
-
-**Cloud Run · GKE · IAM · Kubernetes · Firebase · Cloud SQL · Apigee · Terraform**
-
----
+`Git` · `GitHub` · `VS Code` · `Eclipse` · `NetBeans` · `XAMPP` · `Apache Tomcat` · `MySQL Workbench`
 
 ## 📈 My GitHub Journey
 
@@ -138,16 +154,7 @@ I'm working towards becoming a stronger software developer by improving my funda
 
 ---
 
-## 🤖 AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Artificial Intelligence | 🟣🟣🟣⚪⚪ | AI concepts, AI tools and practical AI applications |
-| Machine Learning | 🟣🟣🟣⚪⚪ | ML fundamentals and learning through practical exploration |
-| AI-Powered Applications | 🟣🟣🟣⚪⚪ | Exploring intelligent features for real-world applications |
-| Data Analysis | 🟣🟣🟣⚪⚪ | Data handling, analysis and interpretation |
-| Data Science | 🟣🟣🟣⚪⚪ | Data science methodology and fundamentals |
-| Database Intelligence | 🟣🟣🟣⚪⚪ | Combining structured data with application logic |
 
 ---
 

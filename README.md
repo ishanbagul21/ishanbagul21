@@ -1,28 +1,44 @@
 <div align="center">
 
-# Hi, I'm Ishan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Ishan%20Bagul&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Computer Engineering Student · Java Developer · Full-Stack Web Developer
+<br>
 
-**Developer + Creative Java Developer | Web & Creative Tech | Crafting stories through code & visuals**
+<br>
+
+<a href="https://github.com/ishanbagul21">
+<img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ishanbagul/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+# Hi, I'm Ishan 👋
+
+### Computer Engineering Student · Java Developer · DSA Learner
+
+**Learning with curiosity. Building with purpose.**
+
+---
+
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** interested in software development, web development, backend systems, databases, AI, and creative technology.
+I'm a **Computer Engineering student** interested in software development and problem solving.
 
-Currently, I'm focusing on **Java, Full-Stack Development, Backend Development, and Database Management**, while exploring AI/ML and modern web technologies.
+Currently, I'm focusing on **Java and Data Structures & Algorithms**, while exploring web development, backend concepts, and cloud technologies.
 
 I enjoy learning by **understanding how things work and turning that knowledge into practice.**
 
-- ☕ Strengthening my **Java & Backend Development** skills
-- 🧩 Practicing **problem solving & software development**
-- 🌐 Exploring **Web & Full-Stack Development**
-- 🤖 Exploring **AI & Machine Learning**
-- 🎨 Combining **code with creative technology and visual storytelling**
+- ☕ Strengthening my **Java** fundamentals
+- 🧩 Practicing **DSA & problem solving**
+- 🌐 Exploring **Web & Backend Development**
+- ☁️ Getting hands-on exposure to **Cloud Technologies**
+- 🏆 Taking part in **hackathons and technical challenges**
 
 ---
 
@@ -30,31 +46,31 @@ I enjoy learning by **understanding how things work and turning that knowledge i
 
 ### Languages
 
-**Java · Python · JavaScript · SQL**
+**Java · C · C++**
 
 ### Web
 
-**HTML · CSS · JavaScript · Bootstrap · AdminLTE**
+**HTML · CSS · JavaScript**
 
 ### Database
 
-**MySQL · MongoDB · JDBC · SQL · DBMS**
+**MySQL · MongoDB**
 
-### Backend & Developer Tools
+### Cloud & Developer Tools
 
-**Java Servlets · JSP · Apache Tomcat · Git · GitHub · VS Code · Eclipse · NetBeans · XAMPP**
+**Google Cloud · Git · GitHub · Firebase · Cloud Run · Kubernetes**
 
 ---
 
-## 🤖 Exploring AI & Creative Tech
+## ☁️ Exploring Cloud
 
-I've explored Artificial Intelligence, Machine Learning, and creative technology through courses, projects, and hands-on learning.
+I've explored Google Cloud through hands-on labs and learning activities.
 
-**AI & ML · Data Science · AI-powered Applications · Creative Technology**
+**19+ Google Cloud Skills Boost badges**
 
 Areas I've explored include:
 
-**Artificial Intelligence · Machine Learning · Data Analysis · AI Tools · Video Editing · Premiere Pro · After Effects · Lightroom · CapCut · Canva**
+**Cloud Run · GKE · IAM · Kubernetes · Firebase · Cloud SQL · Apigee · Terraform**
 
 ---
 
@@ -66,10 +82,10 @@ I'm using GitHub not just to store code, but to **track my learning, practice co
 
 ## 🎯 2026 Focus
 
-**Java · Full-Stack Development · Backend · Databases · AI · Problem Solving**
+**Java · DSA · Problem Solving · Development · Cloud**
 
-I'm working towards becoming a stronger software developer by improving my fundamentals, building real-world applications, exploring AI technologies, and combining **code with creativity**.
+I'm working towards becoming a stronger software developer by improving my fundamentals, solving problems consistently, and gaining practical experience.
 
 ---
 
-### Keep learning. Keep building. Keep creating. 🚀
+### Keep learning. Keep building. Keep improving. 🚀

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Ishan%20Bagul&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Vaishnavi%20Jagtap&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
@@ -22,7 +22,7 @@
 
 ---
 
-# Hi, I'm Ishan 👋
+# Hi, I'm Vaishnavi 👋
 
 ### Computer Engineering Student · Java Developer · DSA Learner
 

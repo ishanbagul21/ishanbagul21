@@ -9,9 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=180&section=header&text=Ishan%20Bagul&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%2B%20Creative%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Java+Developer;DSA+Learner;Problem+Solver;Exploring+Cloud+Technologies" alt="Typing SVG"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vaishnavi+Jagtap+%F0%9F%91%8B;Computer+Engineering+Student;Java+Developer;DSA+Learner;Problem+Solver" alt="Typing SVG"/>
 <br>
 
 <br>

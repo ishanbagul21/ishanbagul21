@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vaishnavi Jagtap 👋
+# Hi, I'm Ishan Bagul 👋
 
 ### Computer Engineering Student · Java Developer · DSA Learner
 
